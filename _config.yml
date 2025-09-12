@@ -12,7 +12,7 @@ title                    : "Min Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Min Chen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mchen644.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mic380@pitt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
