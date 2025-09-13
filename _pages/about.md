@@ -42,8 +42,8 @@ ICML 2025
 
 ## 💼 Internships
 
-- 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China
-  - Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
+- 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
+  Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
 
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
   Project: [一句话描述，比如 "Large-scale tensor network simulation on GPU clusters"] -->
