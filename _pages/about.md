@@ -11,6 +11,14 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
 
 # 📚 Selected Publications
 
+## Journal Articles
+
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+J. Stat. Mech.: Theory Exp. (JSTAT)</span>
+<strong>Catapult Dynamics and Phase Transitions in Quadratic Nets</strong>  
+David Meltzer, **Min Chen**, Junyu Liu
+[📄 Arxiv](https://arxiv.org/abs/2301.07737)
+
 <!-- ### Journal Articles
 - **Towards Efficient Simulation of Symmetric Quantum Many-Body Systems Using Supercomputing Tensor Networks**  
   *Min Chen*, Junyu Liu, et al.  
@@ -37,12 +45,13 @@ ICML 2025</span>
 <strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization</strong>  
 **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
 _Submit to npj Quantum Information (under peer review)_  
-[📄 url](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
+[📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
 
 
 # 💼 Internships
 
 - 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
+  Direction: Sys for LLM Serving  
   Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
 
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
