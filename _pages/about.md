@@ -35,10 +35,10 @@ ICML 2025
   _arXiv preprint, 2025_  
   [📄 arXiv:2503.xxxxx](https://arxiv.org/abs/2503.xxxxx) -->
 
-- **GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization**  
-  **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
-  _Submit to npj Quantum Information (under peer review)_  
-  [📄 url](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
+<strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization</strong>
+**Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
+_Submit to npj Quantum Information (under peer review)_  
+[📄 url](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
 
 
 ## 💼 Internships
