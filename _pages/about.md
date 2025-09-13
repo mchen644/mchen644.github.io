@@ -18,9 +18,13 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
   [📄 arXiv:2401.xxxxx](https://arxiv.org/abs/2401.xxxxx) | [🔗 DOI](https://doi.org/xxxxxx) -->
 
 ### Conference Papers
-- **Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting**  
-  **Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan
-  _ICML 2025_  
+
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold;">
+ICML 2025
+</span>
+
+**Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting**  
+  **Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan 
   <!-- Poster E-804   -->
   [📄 url](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
 
