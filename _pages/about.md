@@ -52,7 +52,7 @@ _Submit to npj Quantum Information (under peer review)_
 
 - 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
   Direction: System for LLM Serving  
-  Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
+  Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/)
 
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
   Project: [一句话描述，比如 "Large-scale tensor network simulation on GPU clusters"] -->
