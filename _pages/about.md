@@ -50,10 +50,7 @@ ICML 2025
 
 ## 🛠️ Services
 
-- Reviewer
-  - KDD 2024
-  - SLLM@ICLR 2025
-  - npj Quantum Information
+- Reviewer: KDD 2024, SLLM@ICLR 2025, npj Quantum Information
 
 
 
