@@ -16,7 +16,7 @@ Welcome! I am currently a first-year Ph.D. student of [computer science](https:/
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
 J. Stat. Mech.: Theory Exp. (JSTAT)</span>
 <strong>Catapult Dynamics and Phase Transitions in Quadratic Nets</strong>  
-David Meltzer, **Min Chen**, Junyu Liu
+David Meltzer, **Min Chen**, Junyu Liu  
 [📄 Arxiv](https://arxiv.org/abs/2301.07737)
 
 <!-- ### Journal Articles
