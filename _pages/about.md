@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a first-year Ph.D. student of computer science at University of Pittsburgh, advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). Currently I am investigating quantum+AI, including quantum learning theory, quantum theory for AI and AI for quantum.
+Welcome! I am currently a first-year Ph.D. student of computer science at University of Pittsburgh, advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). Currently I am investigating quantum+AI, including quantum learning theory, statistical physics/quantum theory for AI and AI for quantum.
 
 ## 📚 Selected Publications
 
