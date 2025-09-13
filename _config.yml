@@ -21,7 +21,7 @@ repository               : "https://github.com/mchen644"
 #               Additional customization can be done by editing /_includes/asuthor-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Min Chen" # Your name
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
