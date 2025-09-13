@@ -35,6 +35,15 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
   _Submit to npj Quantum Information (under peer review)_  
   [📄 https://arxiv.org/abs/2505.04880](https://arxiv.org/abs/2505.04880)
 
+
+## 💼 Internships
+
+- Research Assistant, University of Macau, Macau, China
+  Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
+
+<!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
+  Project: [一句话描述，比如 "Large-scale tensor network simulation on GPU clusters"] -->
+
 ## 🛠️ Services
 
 - Reviewer
