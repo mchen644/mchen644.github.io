@@ -31,7 +31,7 @@ David Meltzer, **Min Chen**, Junyu Liu
 ICML 2025</span>
 <strong>Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting</strong>  
 **Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan  
-[📄 url](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
+[📄 Openreview](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
 <!-- Poster E-804   -->  
 
 
