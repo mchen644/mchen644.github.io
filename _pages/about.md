@@ -1,15 +1,15 @@
----
+<!-- ---
 permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
 Welcome! I am currently a first-year Ph.D. student of computer science at University of Pittsburgh, advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). Currently I am investigating quantum+AI, including quantum learning theory, statistical physics/quantum theory for AI and AI for quantum.
 
-## 📚 Selected Publications
+# 📚 Selected Publications
 
 <!-- ### Journal Articles
 - **Towards Efficient Simulation of Symmetric Quantum Many-Body Systems Using Supercomputing Tensor Networks**  
@@ -17,7 +17,7 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
   _IEEE Transactions on Computers, 2025 (to appear)_  
   [📄 arXiv:2401.xxxxx](https://arxiv.org/abs/2401.xxxxx) | [🔗 DOI](https://doi.org/xxxxxx) -->
 
-### Conference Papers
+## Conference Papers
 
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
 ICML 2025</span>
@@ -28,7 +28,7 @@ ICML 2025</span>
 
 
 
-### Preprints
+## Preprints
 <!-- - **First-Principle Equivalence Between Quantum Imaginary Time Evolution and Natural Gradient Descent**  
   *Min Chen*, Junyu Liu  
   _arXiv preprint, 2025_  
@@ -40,7 +40,7 @@ _Submit to npj Quantum Information (under peer review)_
 [📄 url](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
 
 
-## 💼 Internships
+# 💼 Internships
 
 - 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
   Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
@@ -48,9 +48,9 @@ _Submit to npj Quantum Information (under peer review)_
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
   Project: [一句话描述，比如 "Large-scale tensor network simulation on GPU clusters"] -->
 
-## 🛠️ Services
+# 🛠️ Services
 
-- Reviewer: KDD 2024, SLLM@ICLR 2025, npj Quantum Information
+- Reviewer: [KDD 2024](https://kdd2024.kdd.org/), [SLLM@ICLR 2025](https://www.sparsellm.org/), [npj Quantum Information](https://www.nature.com/npjqi/)
 
 
 
