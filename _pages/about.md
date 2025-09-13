@@ -38,7 +38,7 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
 
 ## 💼 Internships
 
-- Research Assistant, University of Macau, Macau, China
+- 2024.08 - 2024.12， Research Assistant, University of Macau, Macau, China
   Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
 
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
