@@ -19,7 +19,7 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
 
 ### Conference Papers
 - **Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting**  
-  *Min Chen*, Guansong Pang, Wenjun Wang, Cheng Yan, et al.  
+  **Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan
   _ICML 2025_  
   <!-- Poster E-804   -->
   [📄 url](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
@@ -31,7 +31,7 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
   [📄 arXiv:2503.xxxxx](https://arxiv.org/abs/2503.xxxxx) -->
 
 - **GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization**  
-  *Min Chen*, Radowan Ahmed Baized, Zhuang, Liu, et al.  
+  **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu
   _Submit to npj Quantum Information (under peer review)_  
   [📄 url](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
 
