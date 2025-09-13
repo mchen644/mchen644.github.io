@@ -51,7 +51,7 @@ _Submit to npj Quantum Information (under peer review)_
 # 💼 Internships
 
 - 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
-  Direction: Sys for LLM Serving  
+  Direction: System for LLM Serving  
   Supervised by [Dr. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/)
 
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
