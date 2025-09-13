@@ -9,6 +9,33 @@ redirect_from:
 
 Welcome! I am currently a first-year Ph.D. student of computer science at University of Pittsburgh, advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). Currently I am investigating quantum+AI, including quantum learning theory, quantum theory for AI and AI for quantum.
 
+## 📚 Selected Publications
+
+<!-- ### Journal Articles
+- **Towards Efficient Simulation of Symmetric Quantum Many-Body Systems Using Supercomputing Tensor Networks**  
+  *Min Chen*, Junyu Liu, et al.  
+  _IEEE Transactions on Computers, 2025 (to appear)_  
+  [📄 arXiv:2401.xxxxx](https://arxiv.org/abs/2401.xxxxx) | [🔗 DOI](https://doi.org/xxxxxx) -->
+
+### Conference Papers
+- **Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting**  
+  *Min Chen*, Guansong Pang, Wenjun Wang, Cheng Yan, et al.  
+  _ICML 2025_  
+  Poster E-804  
+  [📄 url](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
+
+### Preprints
+<!-- - **First-Principle Equivalence Between Quantum Imaginary Time Evolution and Natural Gradient Descent**  
+  *Min Chen*, Junyu Liu  
+  _arXiv preprint, 2025_  
+  [📄 arXiv:2503.xxxxx](https://arxiv.org/abs/2503.xxxxx) -->
+
+- **GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization**  
+  *Min Chen*, Radowan Ahmed Baized, Zhuang, Liu, et al.  
+  _Submit to npj Quantum Information (under peer review)_  
+  [📄 https://arxiv.org/abs/2505.04880](https://arxiv.org/abs/2505.04880)
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
