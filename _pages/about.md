@@ -35,6 +35,14 @@ Welcome! I am currently a first-year Ph.D. student of computer science at Univer
   _Submit to npj Quantum Information (under peer review)_  
   [📄 https://arxiv.org/abs/2505.04880](https://arxiv.org/abs/2505.04880)
 
+## 🛠️ Services
+
+- Reviewer
+  - KDD 2024
+  - SLLM@ICLR 2025
+  - npj Quantum Information
+
+
 
 <!-- A data-driven personal website
 ======
