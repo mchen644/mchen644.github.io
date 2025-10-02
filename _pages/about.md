@@ -17,7 +17,7 @@ Welcome! I am currently a first-year Ph.D. student of [computer science](https:/
 J. Stat. Mech.: Theory Exp. (JSTAT)</span>
 <strong>Catapult Dynamics and Phase Transitions in Quadratic Nets</strong>  
 David Meltzer, **Min Chen**, Junyu Liu  
-[📄 Arxiv](https://arxiv.org/abs/2301.07737)
+[📄 Arxiv](https://arxiv.org/abs/2301.07737) | [📄 IOPScience](https://iopscience.iop.org/article/10.1088/1742-5468/adf821/meta)
 
 <!-- ### Journal Articles
 - **Towards Efficient Simulation of Symmetric Quantum Many-Body Systems Using Supercomputing Tensor Networks**  
