@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[My resume is here.](/files/CV_Min.pdf)
+[My resume is here.](/files/CV_Min_v1.pdf)
 
-<!-- {% include base_path %}
+<!-- {% include base_path %
 
 Education
 ======
