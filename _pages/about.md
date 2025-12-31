@@ -42,6 +42,11 @@ ICML 2025</span>
   _arXiv preprint, 2025_  
   [📄 arXiv:2503.xxxxx](https://arxiv.org/abs/2503.xxxxx) -->
 
+- <strong>An Analytic Theory of Quantum Imaginary Time Evolution</strong>  
+  **Min Chen**, Bingzhi Zhang, Quntao Zhuang, Junyu Liu  
+  _arXiv preprint_  
+  [📄 Arxiv](https://arxiv.org/abs/)  
+
 - <strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native    Tokenization</strong>  
   **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
   _Submit to npj Quantum Information (under peer review)_  

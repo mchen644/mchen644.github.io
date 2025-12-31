@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[My resume is here.](/files/CV_Min_v1.pdf)
+[My resume is here.](/files/CV_Min_v2.pdf)
 
 <!-- {% include base_path %
 
@@ -48,6 +48,11 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Grants
+======
+* Tinker Research Grant, 2025, $5,000 USD, Thinking Machines Lab
+  * Competitive research grant supporting independent research with compute credits and priority technical support.
   
 Talks
 ======
