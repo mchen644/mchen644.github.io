@@ -9,6 +9,9 @@ redirect_from:
 
 Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). Currently I am investigating quantum+AI, including quantum learning theory, statistical physics/quantum theory for AI and AI for quantum.
 
+*<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
+*<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
+
 # 📚 Selected Publications
 
 ## Journal Articles
@@ -41,6 +44,11 @@ ICML 2025</span>
   *Min Chen*, Junyu Liu  
   _arXiv preprint, 2025_  
   [📄 arXiv:2503.xxxxx](https://arxiv.org/abs/2503.xxxxx) -->
+
+- <strong>Artificial Entanglement in the Fine-Tuning of Large Language Models</strong>  
+  **Min Chen**, Zihan Wang, Canyu Chen, Zeguan Wu, Manling Li, Junyu Liu  
+  _arXiv preprint_  
+  [📄 Arxiv](https://arxiv.org/abs/2601.06788)  
 
 - <strong>An Analytic Theory of Quantum Imaginary Time Evolution</strong>  
   **Min Chen**, Bingzhi Zhang, Quntao Zhuang, Junyu Liu  
