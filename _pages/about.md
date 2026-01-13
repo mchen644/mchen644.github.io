@@ -14,9 +14,19 @@ I work on quantum learning theory, large language models (its dynamics, and its 
 *<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
 *<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
 
-# 📚 Selected Publications
+# Selected Publications
 
-## Journal Articles
+<strong>Artificial Entanglement in the Fine-Tuning of Large Language Models</strong>  
+**Min Chen**, Zihan Wang, Canyu Chen, Zeguan Wu, Manling Li, Junyu Liu  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+arXiv preprint</span>  
+[📄 Arxiv](https://arxiv.org/abs/2601.06788)  
+
+<strong>Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting</strong>  
+**Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+ICML 2025</span>  
+[📄 Openreview](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
 
 <strong>Catapult Dynamics and Phase Transitions in Quadratic Nets</strong>  
 David Meltzer, **Min Chen**, Junyu Liu  
@@ -24,52 +34,26 @@ David Meltzer, **Min Chen**, Junyu Liu
 J. Stat. Mech.: Theory Exp. (JSTAT)</span>  
 [📄 Arxiv](https://arxiv.org/abs/2301.07737) | [📄 IOPScience](https://iopscience.iop.org/article/10.1088/1742-5468/adf821/meta)
 
-<!-- ### Journal Articles
-- **Towards Efficient Simulation of Symmetric Quantum Many-Body Systems Using Supercomputing Tensor Networks**  
-  *Min Chen*, Junyu Liu, et al.  
-  _IEEE Transactions on Computers, 2025 (to appear)_  
-  [📄 arXiv:2401.xxxxx](https://arxiv.org/abs/2401.xxxxx) | [🔗 DOI](https://doi.org/xxxxxx) -->
-
-## Conference Papers
-
-<strong>Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting</strong>  
-**Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan  
+<strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native    Tokenization</strong>  
+**Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
-ICML 2025</span>  
-[📄 Openreview](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
-<!-- Poster E-804   -->  
+Submit to npj Quantum Information (under peer review)</span>  
+[📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus)
+
+<strong>An Analytic Theory of Quantum Imaginary Time Evolution</strong>  
+**Min Chen**, Bingzhi Zhang, Quntao Zhuang, Junyu Liu  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+arXiv preprint</span>  
+[📄 Arxiv](https://arxiv.org/abs/) 
 
 
-
-## Preprints
-<!-- - **First-Principle Equivalence Between Quantum Imaginary Time Evolution and Natural Gradient Descent**  
-  *Min Chen*, Junyu Liu  
-  _arXiv preprint, 2025_  
-  [📄 arXiv:2503.xxxxx](https://arxiv.org/abs/2503.xxxxx) -->
-
-- <strong>Artificial Entanglement in the Fine-Tuning of Large Language Models</strong>  
-  **Min Chen**, Zihan Wang, Canyu Chen, Zeguan Wu, Manling Li, Junyu Liu  
-  _arXiv preprint_  
-  [📄 Arxiv](https://arxiv.org/abs/2601.06788)  
-
-- <strong>An Analytic Theory of Quantum Imaginary Time Evolution</strong>  
-  **Min Chen**, Bingzhi Zhang, Quntao Zhuang, Junyu Liu  
-  _arXiv preprint_  
-  [📄 Arxiv](https://arxiv.org/abs/)  
-
-- <strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native    Tokenization</strong>  
-  **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
-  _Submit to npj Quantum Information (under peer review)_  
-  [📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
-
-
-# 🏆 Awards & Grants
+# Awards & Grants
 
 - **Tinker Research Grant**, 2025, $5,000 USD, *Thinking Machines Lab*  
   Competitive research grant supporting independent research with compute credits and priority technical support.
 
 
-# 💼 Internships
+# Internships
 
 - 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
   Direction: System for LLM Serving  
@@ -78,7 +62,7 @@ ICML 2025</span>
 <!-- - Research Intern, [Company/Institute Name], City, Country — *2024*  
   Project: [一句话描述，比如 "Large-scale tensor network simulation on GPU clusters"] -->
 
-# 🛠️ Services
+# Services
 
 - Reviewer: [KDD 2024](https://kdd2024.kdd.org/), [SLLM@ICLR 2025](https://www.sparsellm.org/), [npj Quantum Information](https://www.nature.com/npjqi/)
 
