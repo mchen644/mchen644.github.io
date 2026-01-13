@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[My resume is here.](/files/CV_Min_v2.pdf)
+[My resume is here.](/files/Resume_Min.pdf)
 
 <!-- {% include base_path %}
 

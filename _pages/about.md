@@ -63,6 +63,12 @@ ICML 2025</span>
   [📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus) 
 
 
+# 🏆 Awards & Grants
+
+- **Tinker Research Grant**, 2025, $5,000 USD, *Thinking Machines Lab*  
+  Competitive research grant supporting independent research with compute credits and priority technical support.
+
+
 # 💼 Internships
 
 - 2024.08 - 2024.12, Research Assistant, University of Macau, Macau, China  
