@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). 
 
-I work on quantum learning theory, large language models (its dynamics, and its applications in quantum), and applying physical principles to analyze neural network dynamics. I am interested in leveraging principles or tools from physics for AI dynamics/applications and AI for quantum.
+I work on quantum learning theory, large language models (dynamics, and the applications in quantum), and applying physical principles to analyze neural network dynamics. I am interested in leveraging principles or tools from physics for AI dynamics/applications and AI for quantum.
 
 *<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
 *<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
