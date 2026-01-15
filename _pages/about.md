@@ -44,7 +44,7 @@ Submit to npj Quantum Information (under peer review)</span>
 **Min Chen**, Bingzhi Zhang, Quntao Zhuang, Junyu Liu  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
 arXiv preprint</span>  
-[📄 Arxiv](https://arxiv.org/abs/) 
+[📄 Arxiv](https://arxiv.org/abs/2510.22481) 
 
 
 # Awards & Grants
