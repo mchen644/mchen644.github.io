@@ -11,7 +11,7 @@ Welcome! I am currently a first-year Ph.D. student of [computer science](https:/
 
 My research vision is to understand artificial intelligence through the complementary lenses of **Physics of AI** and **mechanistic interpretability**.
 
-**Physics of AI.** Within Physics of AI, I am particularly drawn to first-principles approaches that aim to uncover universal mechanisms underlying learning dynamics, such as neural scaling laws, emergent behaviors, and phase-transition–like phenomena (e.g., grokking, catapult dynamics). I am especially interested in developing principled theoretical frameworks that explain these phenomena from minimal assumptions, rather than treating them as purely empirical observations.
+**Physics of AI.** Within Physics of AI, I am particularly drawn to its top-down, macroscopic approaches that aim to uncover universal mechanisms underlying learning dynamics, such as neural scaling laws, emergent behaviors, and phase-transition–like phenomena (e.g., grokking, catapult dynamics). I am especially interested in developing principled theoretical frameworks that explain these phenomena from minimal assumptions, rather than treating them as purely empirical observations.
 
 **Mechanistic Interpretability.** Mechanistic interpretability provides a complementary, bottom-up perspective, focusing on empirically decomposing neural networks into elementary functional units—such as features and circuits—and analyzing how their interactions give rise to global model behavior. I view mechanistic interpretability as a crucial tool for grounding macroscopic theories of learning in concrete, testable model internals, and I am actively building the technical foundation needed to engage with this line of research.
 
