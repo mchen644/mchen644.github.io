@@ -9,7 +9,14 @@ redirect_from:
 
 Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). 
 
-I work on large language models (dynamics, and the applications in quantum), quantum learning theory and applying physical principles to analyze neural network dynamics. I am interested in leveraging principles or tools from physics for AI dynamics (e.g., fine-tuning dynamics, grokking, emergent abilities, neural scaling law, catapult dynamics, etc.)/applications and AI for quantum.
+My research vision is to understand artificial intelligence through the complementary lenses of **Physics of AI** and **mechanistic interpretability**.
+
+**Physics of AI.** Within Physics of AI, I am particularly drawn to first-principles approaches that aim to uncover universal mechanisms underlying learning dynamics, such as neural scaling laws, emergent behaviors, and phase-transition–like phenomena (e.g., grokking, catapult dynamics). I am especially interested in developing principled theoretical frameworks that explain these phenomena from minimal assumptions, rather than treating them as purely empirical observations.
+
+**Mechanistic Interpretability.** Mechanistic interpretability provides a complementary, bottom-up perspective, focusing on empirically decomposing neural networks into elementary functional units—such as features and circuits—and analyzing how their interactions give rise to global model behavior. I view mechanistic interpretability as a crucial tool for grounding macroscopic theories of learning in concrete, testable model internals, and I am actively building the technical foundation needed to engage with this line of research.
+
+**Applied AI Research.** I also actively engage in applied AI research, particularly in AI for science, where theoretical insights can be translated into practical modeling and analysis tools for scientific discovery.
+
 
 *<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
 *<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
@@ -65,6 +72,14 @@ arXiv preprint</span>
 # Services
 
 - Reviewer: [KDD 2024](https://kdd2024.kdd.org/), [SLLM@ICLR 2025](https://www.sparsellm.org/), [npj Quantum Information](https://www.nature.com/npjqi/)
+
+
+# Useful/Inspiring Resources & Blog
+
+- [Physics of AI Requires Mindset Shifts](https://kindxiaoming.github.io/blog/2025/physics-of-ai/)
+- [Physics of AI – How to Begin](https://kindxiaoming.github.io/blog/2026/physics-of-ai-recipe/)
+- [A Pragmatic Vision for Interpretability](https://www.alignmentforum.org/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability)
+- [How to Become a Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Machine_Learning___Transformer_Basics)
 
 
 
