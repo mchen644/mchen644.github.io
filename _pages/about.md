@@ -15,7 +15,7 @@ My research vision is to understand artificial intelligence through the compleme
 
 **Mechanistic Interpretability.** Mechanistic interpretability provides a complementary, bottom-up perspective, focusing on empirically decomposing neural networks into elementary functional units—such as features and circuits—and analyzing how their interactions give rise to global model behavior. I view mechanistic interpretability as a crucial tool for grounding macroscopic theories of learning in concrete, testable model internals, and I am actively building the technical foundation needed to engage with this line of research.
 
-**Applied AI Research.** I also actively engage in applied AI research, particularly in AI for science, where theoretical insights can be translated into practical modeling and analysis tools for scientific discovery.
+**Applied AI Research.** I also actively engage in applied AI research, particularly in AI for science.
 
 
 *<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
