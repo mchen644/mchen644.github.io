@@ -44,7 +44,7 @@ J. Stat. Mech.: Theory Exp. (JSTAT)</span>
 <strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native    Tokenization</strong>  
 **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
-Submit to npj Quantum Information (under peer review)</span>  
+npj Quantum Information</span>  
 [📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus)
 
 <strong>An Analytic Theory of Quantum Imaginary Time Evolution</strong>  
