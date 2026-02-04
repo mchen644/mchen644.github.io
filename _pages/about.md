@@ -80,6 +80,8 @@ arXiv preprint</span>
 - [Physics of AI – How to Begin](https://kindxiaoming.github.io/blog/2026/physics-of-ai-recipe/)
 - [A Pragmatic Vision for Interpretability](https://www.alignmentforum.org/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability)
 - [How to Become a Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Machine_Learning___Transformer_Basics)
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+- [Physics of LLMs](https://physics.allen-zhu.com/)
 
 
 
