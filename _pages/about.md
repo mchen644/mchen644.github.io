@@ -41,11 +41,11 @@ David Meltzer, **Min Chen**, Junyu Liu
 J. Stat. Mech.: Theory Exp. (JSTAT)</span>  
 [📄 Arxiv](https://arxiv.org/abs/2301.07737) | [📄 IOPScience](https://iopscience.iop.org/article/10.1088/1742-5468/adf821/meta)
 
-<strong>GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native    Tokenization</strong>  
+<strong>Symbolic analysis of Grover search algorithm via Chain-of-Thought reasoning and quantum-native tokenization</strong>  
 **Min Chen**, Jinglei Cheng, Pingzhi Li, Haoran Wang, Tianlong Chen, Junyu Liu  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
 npj Quantum Information</span>  
-[📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus)
+[📄 npj QI](https://www.nature.com/articles/s41534-026-01195-1) | [📄 Arxiv](https://arxiv.org/abs/2505.04880)  | [💻 Code](https://github.com/mchen644/GroverGPT-plus)
 
 <strong>An Analytic Theory of Quantum Imaginary Time Evolution</strong>  
 **Min Chen**, Bingzhi Zhang, Quntao Zhuang, Junyu Liu  
