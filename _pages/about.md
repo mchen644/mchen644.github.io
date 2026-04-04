@@ -9,13 +9,19 @@ redirect_from:
 
 Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). 
 
-AI and agentic systems are becoming increasingly capable. My goal is to build and streamline agentic AI frameworks from first principles, and to interpret AI for safety through both scientific and empirical approaches, as well as to advance AI for Science (For now I focus on quantum).
+I'm broadly interested in AI science and applications. I enjoy building, understanding, and applying AI systems to real-world problems.
 
 
 *<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
 *<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
 
 # Selected Publications
+
+<strong>Infeasibility Aware Large Language Models for Combinatorial Optimization</strong>  
+Yakun Wang, **Min Chen**, Zeguan Wu, Junyu Liu, Sitao Zhang, Zhenwen Shao  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+arXiv preprint</span>  
+[📄 Arxiv](https://arxiv.org/pdf/2604.01455v1)  
 
 <strong>Artificial Entanglement in the Fine-Tuning of Large Language Models</strong>  
 **Min Chen**, Zihan Wang, Canyu Chen, Zeguan Wu, Manling Li, Junyu Liu  
