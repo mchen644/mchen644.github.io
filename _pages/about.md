@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). 
+Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). I will join [Fujitsu Research of America](https://global.fujitsu/en-us/local/technology/research) as a research intern this summer. 
 
-I'm broadly interested in AI science and applications. I enjoy building, understanding, and applying AI systems to real-world problems.
+I'm interested in Large Language Model Post-training, Large Language Model Evaluation, and AI for Quantum.
 
 
-*<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'26.</span>*  
+*<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'27.</span>*  
 *<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
 
 # Selected Publications
@@ -72,17 +72,6 @@ arXiv preprint</span>
 # Services
 
 - Reviewer: [KDD 2024](https://kdd2024.kdd.org/), [SLLM@ICLR 2025](https://www.sparsellm.org/), [npj Quantum Information](https://www.nature.com/npjqi/)
-
-
-# Useful/Inspiring Resources & Blog
-
-- [Physics of AI Requires Mindset Shifts](https://kindxiaoming.github.io/blog/2025/physics-of-ai/)
-- [Physics of AI – How to Begin](https://kindxiaoming.github.io/blog/2026/physics-of-ai-recipe/)
-- [A Pragmatic Vision for Interpretability](https://www.alignmentforum.org/posts/StENzDcD3kpfGJssR/a-pragmatic-vision-for-interpretability)
-- [How to Become a Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Machine_Learning___Transformer_Basics)
-- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
-- [Physics of LLMs](https://physics.allen-zhu.com/)
-
 
 
 <!-- A data-driven personal website
