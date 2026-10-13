@@ -17,6 +17,12 @@ I'm interested in Large Language Model Post-training, Large Language Model Evalu
 
 # Selected Publications
 
+<strong>Scaling and Renormalization in Neural Networks: An Effective Renormalization-Group Description of Grokking</strong>  
+**Min Chen**, Junqi Wang, Zeguan Wu, Wenhao Huang, Junyu Liu  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+Preprint</span>  
+<a href="https://mchen644.github.io/files/grokking_rg_2026.pdf" download="grokking_rg_2026.pdf">📄 PDF</a>  
+
 <strong>Infeasibility Aware Large Language Models for Combinatorial Optimization</strong>  
 Yakun Wang, **Min Chen**, Zeguan Wu, Junyu Liu, Sitao Zhang, Zhenwen Shao  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
