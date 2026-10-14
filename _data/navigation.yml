@@ -1,5 +1,5 @@
 # main links links
-main:
+main: []
   # - title: "Publications"
   #   # url: /publications/
   #   url: /
@@ -16,9 +16,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    # url: /
-    url: /cv/
     
     
   # - title: "Guide"
