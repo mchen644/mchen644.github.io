@@ -7,21 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a first-year Ph.D. student of [computer science](https://www.cs.pitt.edu/) at [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). Before that, I received my B.E. from [Tianjin University](https://www.tju.edu.cn/), and my M.S. degree from [Georgia Institute of Technology](https://www.gatech.edu/). I will join [Fujitsu Research of America](https://global.fujitsu/en-us/local/technology/research) as a research intern this summer. 
+Welcome! I am a second-year Ph.D. student in [computer science](https://www.cs.pitt.edu/) at the [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. [Junyu Liu](https://sites.google.com/view/junyuliu/main). I am currently a research intern at [Fujitsu Research of America](https://global.fujitsu/en-us/local/technology/research), working on AI post-training for quantum circuit compilation. Before Pitt, I received my M.S. from the [Georgia Institute of Technology](https://www.gatech.edu/) and my B.E. from [Tianjin University](https://www.tju.edu.cn/).
 
-I'm interested in Large Language Model Post-training, Large Language Model Evaluation, and AI for Quantum.
+I'm interested in AI agents for scientific discovery, LLM post-training and evaluation, and AI for quantum. My CV is available [here](/files/Resume_Min.pdf).
 
 
 *<span style="color:red;">I am actively seeking LLM or Quantum internship positions in the US for Summer'27.</span>*  
 *<span style="color:#666;">Feel free to reach out for questions and collaborations!</span>*
 
+# News
+
+- **2026.11** — [FrontierPhysics](https://www.benchflow.ai/frontierphysics), a benchmark that evaluates AI agents on end-to-end physics research, is now on [arXiv](https://arxiv.org/abs/2611.06910). I am a core contributor.
+- **2026.10** — Our paper on an effective renormalization-group description of grokking is now on [arXiv](https://arxiv.org/abs/2610.36113).
+- **2026.07** — Our Pitt team's project on AI agents for measurement-based quantum computing is supported by the U.S. Department of Energy's [Genesis Mission](https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum).
+- **2026.07** — Our comprehensive review, *When AI Meets Quantum Information*, is now on [arXiv](https://arxiv.org/abs/2607.00365).
+- **2026.05** — Joined [Fujitsu Research of America](https://global.fujitsu/en-us/local/technology/research) as a research intern.
+- **2026.02** — Our paper on symbolic analysis of Grover search via chain-of-thought reasoning is published in [*npj Quantum Information*](https://www.nature.com/articles/s41534-026-01195-1).
+
 # Selected Publications
+
+<strong>FrontierPhysics: Evaluating Agents for End-to-End Physics Research</strong>  
+Bingran You<sup>&#42;</sup>, Wenjun Ke<sup>&#42;</sup>, Ria Rosenauer<sup>&#42;</sup>, Bo Liu<sup>&#42;</sup>, Wenbo Chen<sup>&dagger;</sup>, **Min Chen**<sup>&dagger;</sup>, Shuqi Xu<sup>&dagger;</sup>, et al. (72 authors)  
+(<sup>&#42;</sup>Equal Contribution, <sup>&dagger;</sup>Core Contribution)  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+arXiv preprint</span>  
+[📄 Arxiv](https://arxiv.org/abs/2611.06910) | [🌐 Website](https://www.benchflow.ai/frontierphysics)  
 
 <strong>Scaling and Renormalization in Neural Networks: An Effective Renormalization-Group Description of Grokking</strong>  
 **Min Chen**, Junqi Wang, Zeguan Wu, Wenhao Huang, Junyu Liu  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
-Preprint</span>  
-<a href="https://mchen644.github.io/files/grokking_rg_2026.pdf" download="grokking_rg_2026.pdf">📄 PDF</a>  
+arXiv preprint</span>  
+[📄 Arxiv](https://arxiv.org/abs/2610.36113) | <a href="https://mchen644.github.io/files/grokking_rg_2026.pdf" download="grokking_rg_2026.pdf">📄 PDF</a>  
+
+<strong>When AI Meets Quantum Information: A Comprehensive Review</strong>  
+**Min Chen**, Yu Gan, Xin Jin, Yuqing Li, Junqi Wang, Zeguan Wu, Yunfei Wang, Bingzhi Zhang, Priyam Srivastava, Tianlong Chen, Ankit Kulshrestha, Yuan Liu, Juan José Mendoza-Arenas, Kaushik P. Seshadreesan, Sarvagya Upadhyay, Xueyue Zhang, Quntao Zhuang, Junyu Liu  
+<span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
+arXiv preprint</span>  
+[📄 Arxiv](https://arxiv.org/abs/2607.00365)  
 
 <strong>Infeasibility Aware Large Language Models for Combinatorial Optimization</strong>  
 Yakun Wang, **Min Chen**, Zeguan Wu, Junyu Liu, Sitao Zhang, Zhenwen Shao  
@@ -36,7 +58,8 @@ arXiv preprint</span>
 [📄 Arxiv](https://arxiv.org/abs/2601.06788)  
 
 <strong>Information Bottleneck-guided MLPs for Robust Spatial-Temporal Forecasting</strong>  
-**Min Chen**, Guansong Pang, Wenjun Wang, Cheng Yan  
+**Min Chen**<sup>&#42;</sup>, Guansong Pang<sup>&#42;</sup>, Wenjun Wang, Cheng Yan  
+(<sup>&#42;</sup>Equal Contribution)  
 <span style="background-color:#FF6600; color:white; padding:3px 6px; border-radius:4px; font-weight:bold; margin-right:8px;">
 ICML 2025</span>  
 [📄 Openreview](https://openreview.net/forum?id=pqSLcEbk5X) | [💻 Code](https://github.com/mchen644/RSTIB)
@@ -62,6 +85,9 @@ arXiv preprint</span>
 
 # Awards & Grants
 
+- **[U.S. Department of Energy Genesis Mission](https://www.pittwire.pitt.edu/features-articles/2026/07/24/genesis-mission-ai-quantum)**, 2026 – Present  
+  Agentic AI for measurement-based quantum computing.
+
 - **Tinker Research Grant**, 2025, $5,000 USD, *Thinking Machines Lab*  
   Competitive research grant supporting independent research with compute credits and priority technical support.
 
@@ -77,7 +103,7 @@ arXiv preprint</span>
 
 # Services
 
-- Reviewer: [KDD 2024](https://kdd2024.kdd.org/), [SLLM@ICLR 2025](https://www.sparsellm.org/), [npj Quantum Information](https://www.nature.com/npjqi/)
+- Reviewer: [KDD 2024](https://kdd2024.kdd.org/), [SLLM@ICLR 2025](https://www.sparsellm.org/), [npj Quantum Information](https://www.nature.com/npjqi/), *Scientific Reports*, *ACM Transactions on Quantum Computing*, *Quantum Machine Intelligence*, *Quantum Information Processing*
 
 
 <!-- A data-driven personal website
